@@ -1,0 +1,29 @@
+{
+  "name": "movie-slap",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^1.29.1",
+    "autoprefixer": "^10.4.1",
+    "axios": "^0.24.0",
+    "next": "12.0.7",
+    "postcss": "^8.4.5",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-icons": "^4.3.1",
+    "react-slick": "^0.28.1",
+    "react-tinder-card": "^1.4.5",
+    "sass": "^1.45.2",
+    "slick-carousel": "^1.8.1",
+    "tailwindcss": "^3.0.9"
+  },
+  "devDependencies": {
+    "eslint": "8.6.0",
+    "eslint-config-next": "12.0.7"
+  }
+}
